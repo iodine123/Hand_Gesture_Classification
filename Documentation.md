@@ -67,11 +67,12 @@ Dari grafik diatas kita bisa melihat perkembangan akurasi dan loss model pada se
 
 Gambar dibawah menunjukkan hasil pengujian pada gambar :
 
-![09](https://user-images.githubusercontent.com/57628364/186578119-299e8162-ecfe-4d0b-9163-2c0fdea9c143.JPG)
+![12](https://user-images.githubusercontent.com/57628364/186578760-91491ee8-309c-4cf2-96eb-97c5c6863d3a.JPG)
 
-![10](https://user-images.githubusercontent.com/57628364/186578141-2982daa0-e928-42e3-819e-2b78b8fcfb2a.JPG)
+![13](https://user-images.githubusercontent.com/57628364/186578776-1d598366-a00e-4fad-ba74-dca39edd284a.JPG)
 
-![11](https://user-images.githubusercontent.com/57628364/186578166-84195984-02be-4830-a7ca-cea71e6033d9.JPG)
+![14](https://user-images.githubusercontent.com/57628364/186578799-52ac2d27-c81e-4b43-979a-12e8ae8de84a.JPG)
+
 
 Akhirnya model yang sudah kita buat dan kita training menggunakan dataset yang kita miliki sudah berhasil digunakan untuk mengklasifikasi jenis bentuk tangan. Apabila ada pertanyaan lebih lanjut yang bisa japri saya di instagram : @iodinehanifan.
 
